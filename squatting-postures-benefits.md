@@ -37,20 +37,23 @@
 
 ---
 
-## 3. Wide-Leg Hip Lifts
+## 3. Skandasana Variation (Side-Lunge Hip Lifts)
 
 **Muscles targeted:** Hamstrings, glutes, hip flexors (of bent leg), quadriceps (of straight leg), gastrocnemius, erector spinae, deep abdominal wall
 
 **Research-backed benefits:**
 
-- **Posterior chain integration:** Straightening one leg to drive the hips upward while keeping the opposite leg extended requires coordinated activation of the hamstrings, glutes, and calf of the pushing leg. This closed-chain hip extension pattern mirrors the mechanics of sprinting and jumping (Contreras et al., 2011, *Journal of Strength and Conditioning Research*).
+- **Posterior chain integration:** Starting from a squat on both toes with one leg extended to the side (foot on the floor), then straightening the squatting leg to drive the hips upward requires coordinated activation of the hamstrings, glutes, and calf of the pushing leg. This closed-chain hip extension pattern mirrors the mechanics of sprinting and jumping (Contreras et al., 2011, *Journal of Strength and Conditioning Research*).
   - *Plain English: You're using one leg to launch your hips into the air — the exact same muscle teamwork your body uses when you sprint or jump.*
 
 - **Hamstring flexibility under load:** Bringing the nose toward the knee of the extended leg while the hips are elevated creates an intense active hamstring stretch. Active stretching (contracting the antagonist while stretching) produces greater flexibility gains than passive stretching alone (Sharman et al., 2006, *Sports Medicine*).
   - *Plain English: Your hamstrings are being stretched while your body is actively working — this kind of "stretch under effort" creates longer-lasting flexibility than just touching your toes.*
 
-- **Hip dissociation:** One hip is in deep flexion while the other drives into extension. This trains the nervous system to independently control each hip — a skill critical for walking, running, and climbing stairs that deteriorates with age and sedentary behavior (Sahrmann, 2002, *Diagnosis and Treatment of Movement Impairment Syndromes*).
+- **Hip dissociation:** One hip is in deep flexion (the squatting leg) while the other is extended to the side. This trains the nervous system to independently control each hip — a skill critical for walking, running, and climbing stairs that deteriorates with age and sedentary behavior (Sahrmann, 2002, *Diagnosis and Treatment of Movement Impairment Syndromes*).
   - *Plain English: Your two hips are doing completely opposite things at the same time, which trains your brain to control each leg independently — something you need for every step you take.*
+
+- **Skandasana-specific adductor stretch:** The extended leg rests on the floor in a wide side-lunge position, placing the adductors of that leg under sustained stretch while the opposite leg does the work. This combines the benefits of a static adductor stretch with dynamic posterior chain loading.
+  - *Plain English: Your inner thigh on the straight leg gets a deep stretch while the other leg powers the movement — you're building flexibility and strength at the same time.*
 
 ---
 

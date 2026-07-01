@@ -310,15 +310,15 @@ Release.
 
 ### 1. Dandasana Variation (L-Sit Single-Leg Lifts)
 
-**Stance:** Sit flat on the floor with legs extended straight out in front (90-degree L-shape). Feet flexed (toes pointing up), fingertips on the floor next to hips. Back perfectly straight.
+**Stance:** Sit flat on the floor with legs extended straight out in front (90-degree L-shape). Feet flexed (toes pointing up), hands flat on the floor next to hips. Back perfectly straight.
 
 **Right Leg (3 reps):**
-- Start: Seated in Dandasana, fingertips pressing into floor.
+- Start: Seated in Dandasana, hands pressing into floor.
 - Movement: Inhale and lift straight right leg up off the floor as high as you can without leaning backward.
 - Return: Release leg down.
 
 **Left Leg (3 reps):**
-- Start: Seated in Dandasana, fingertips pressing into floor.
+- Start: Seated in Dandasana, hands pressing into floor.
 - Movement: Inhale and lift straight left leg up off the floor as high as you can.
 - Return: Release leg down.
 

@@ -20,7 +20,7 @@
 
 ---
 
-## 2. Forward Folds (V-Stance)
+## 2. Utthita Lolasana Variation (Forward Folds / Swinging While Standing - V-Stance)
 
 **Muscles targeted:** Hamstrings, erector spinae, gluteus maximus, gastrocnemius, thoracolumbar fascia
 
@@ -60,17 +60,23 @@
 
 ---
 
-## 5 & 6. Side Lunges (Right Side / Left Side)
+## 5 & 6. Parsvottanasana / Intense Side Stretch Pose (Right Side / Left Side)
 
-**Muscles targeted:** Adductors (inner thigh), hip flexors, hamstrings, quadriceps, gluteus medius/minimus, spinal extensors, rotator cuff (Cow Face), rhomboids (Reverse Prayer)
+**Muscles targeted:** Hamstrings (intensely), gastrocnemius, hip flexors, spinal extensors, rotator cuff (Cow Face / Gomukhasana arms), rhomboids and scapular stabilizers (Reverse Prayer / Paschima Namaskarasana)
 
 **Research-backed benefits:**
 
-- **Adductor and groin flexibility:** The wide lateral stance with torso rotation deeply stretches the adductor group of the straight leg. Adductor flexibility reduces groin strain risk, one of the most common injuries in sports involving lateral movement (Tyler et al., 2001, *American Journal of Sports Medicine*).
-  - *Plain English: The inner thigh of your straight leg gets a deep stretch, which protects you from groin pulls.*
+- **Deep hamstring stretch with straight legs:** Both legs remain fully extended throughout all six arm positions, making this one of the most intense standing hamstring stretches possible. Folding the torso over a straight front leg loads the hamstrings at long muscle lengths, which produces greater flexibility gains and tendon adaptation than stretching at shorter lengths (Medeiros et al., 2016, *International Journal of Sports Physical Therapy*).
+  - *Plain English: With both knees locked straight, your hamstrings get a deep, sustained stretch that's far more effective than a casual toe-touch.*
 
-- **Hip mobility in multiple planes:** Turning the torso to face the bent leg combines hip flexion, external rotation, and lateral flexion — training the hip joint through ranges of motion rarely used in daily life (Malliaras et al., 2009, *Sports Medicine*).
-  - *Plain English: Your hip joint is designed to move in many directions, but daily life only uses a few. This exercise opens up the rest.*
+- **Posterior chain loading through progressive arm positions:** The six arm positions (Parvatasana overhead, behind neck, behind back, overhead interlocked fingers, Gomukhasana arms, Paschima Namaskarasana) progressively shift the center of gravity forward and add upper-body loading, increasing the stretch on the hamstrings, calves, and spinal extensors with each variation.
+  - *Plain English: Each arm position makes the fold harder and deeper — by the time you reach Reverse Prayer, gravity is pulling much harder on the entire back of your body.*
+
+- **Calf and Achilles tendon stretch:** The rear foot faces forward while the torso rotates and folds over the front leg, creating a sustained stretch on the gastrocnemius and soleus of the rear leg. This complements the concentric/eccentric calf work in Step A1 (Alfredson et al., 1998, *American Journal of Sports Medicine*).
+  - *Plain English: Your back calf and Achilles get a sustained stretch here that pairs perfectly with the calf raises earlier — one strengthens, the other lengthens.*
+
+- **Balance on a narrow stance with straight legs:** The 3-foot split stance with both knees fully extended and torso folding forward creates a narrow, unstable base. This trains the vestibular and proprioceptive systems under a challenging constraint (Horak, 2006, *Postgraduate Medicine*).
+  - *Plain English: Balancing while folded forward on two straight legs in a narrow stance forces your balance system to work hard — much harder than a normal standing fold.*
 
 - **Cow Face arms (Gomukhasana):** This position simultaneously internally rotates one shoulder and externally rotates the other, stretching the rotator cuff, posterior deltoid, and triceps. Shoulder internal rotation deficits are strongly linked to shoulder impingement (Tyler et al., 2010, *Journal of Shoulder and Elbow Surgery*).
   - *Plain English: One arm reaches up behind your head, the other reaches up behind your back — it's one of the best ways to keep your shoulders mobile in both directions at once.*
@@ -80,7 +86,7 @@
 
 ---
 
-## 7 & 8. Lateral Pulses (Right Side / Left Side)
+## 7 & 8. Tiryaka Tadasana / Swaying Palm Tree Pose (Lateral Pulses - Right Side / Left Side)
 
 **Muscles targeted:** Quadratus lumborum, obliques (internal and external), intercostals, latissimus dorsi, serratus anterior
 
